@@ -1,0 +1,27 @@
+PODS:
+  - AppCenter (1.12.0):
+    - AppCenter/Analytics (= 1.12.0)
+    - AppCenter/Crashes (= 1.12.0)
+  - AppCenter/Analytics (1.12.0):
+    - AppCenter/Core
+  - AppCenter/Core (1.12.0)
+  - AppCenter/Crashes (1.12.0):
+    - AppCenter/Core
+  - LTMorphingLabel (0.5.9)
+
+DEPENDENCIES:
+  - AppCenter
+  - LTMorphingLabel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppCenter
+    - LTMorphingLabel
+
+SPEC CHECKSUMS:
+  AppCenter: 4d27bdafd74b1b3e90946b9989fd6011a7e39c5e
+  LTMorphingLabel: e6047354486aa4ba52d36ccc40be8874b50e1ef1
+
+PODFILE CHECKSUM: b4b2eebfafc484077b15e26f07b7b83494199903
+
+COCOAPODS: 1.5.3
